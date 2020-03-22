@@ -1,6 +1,8 @@
 '''
 Tema 1 LFA Mihu Marcel-Dragoș
+Implementare AFN
 Am presupus ca starea initiala este 0
+
 '''
 f = open("file.in")
 w = f.readline()
