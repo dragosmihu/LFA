@@ -1,3 +1,7 @@
+'''
+Tema 1 LFA Mihu Marcel-Dragoș
+Am presupus ca starea initiala este 0
+'''
 f = open("file.in")
 w = f.readline()
 nr_stari = int(f.readline())
